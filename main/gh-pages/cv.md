@@ -1,7 +1,8 @@
 # Zheleznyk Serhii
 
-**Phone: +38 (093) 853 95 67**
-**Email: sergeyzheleznik@gmail.com**
+- **Phone: +38 (093) 853 95 67**
+
+- **Email: sergeyzheleznik@gmail.com**
 
 ### Summary of Qualifications
 
@@ -89,7 +90,7 @@ freq = freq.slice(0, 10)
 //for(let i = 0; i < freq.length; i++){
 
 //console.log(`["${freq[0]}] ["${freq[1]}] ["${freq[2]}] ["${freq[3]}] ["${freq[4]}] ["${freq[5]}] ["${freq[6]}] ["${freq[7]}] ["${freq[8]}] ["${freq[9]}]`);
-//У строці 50 не використовую [i]
+
 //console.log(`["${freq[i]}]`);
 
 //}
