@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://zheleznikserhii.github.io
+https://zheleznikserhii.github.io/rsschool-cv
